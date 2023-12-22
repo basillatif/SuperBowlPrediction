@@ -1,5 +1,7 @@
-# SuperBowlPrediction
+# Super Bowl 54 Score Prediction Using Machine Learning
 # Models Used: Linear Regression, Random Forest, XGBoost
+
+
 ### Linear Regression Prediction: 25-23 Chiefs Win
 ### Linear Regression with Weather Data Included: 29-28 49ers Win
 ### Random Forest Prediction: 38-25 Chiefs Win
