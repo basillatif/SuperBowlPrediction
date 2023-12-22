@@ -18,4 +18,4 @@
 * XGBoost 6 points
 
 
-# This project underscored the importance of deep contextual understanding (domain knowledge), wrangling data in Python to process datasets for insights, and applying multiple machine learning models.  
+# This project underscored the importance of deep contextual understanding (domain knowledge), the ability to wrangle data in Python to process datasets for insights, and knowledge of how to apply multiple machine learning models to a unique problem space. 
