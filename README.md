@@ -16,6 +16,7 @@
 * The Linear Regression with Weather was off by 12 points
 * THe Random Forest was off by 12 points
 * XGBoost 6 points
+![Drag Racing](output_prediction_image.png)
 
 
 # This project underscored the importance of deep contextual understanding (domain knowledge), the ability to wrangle data in Python to process datasets for insights, and knowledge of how to apply multiple machine learning models to a unique problem space. 
