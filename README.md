@@ -1,13 +1,12 @@
 # Super Bowl 54 Score Prediction Using Machine Learning
-# Models Used: Linear Regression, Random Forest, XGBoost
 
-
+### Models Used: Linear Regression, Random Forest, XGBoost
 ### Linear Regression Prediction: 25-23 Chiefs Win
 ### Linear Regression with Weather Data Included: 29-28 49ers Win
 ### Random Forest Prediction: 38-25 Chiefs Win
 ### XGBoost Model Prediction: 31-26 Chiefs Win
 ### Ensemble Model Composite Prediction: 28-26 Chiefs Win  
-### FINAL SCORE
+### ACTUAL FINAL SCORE
 ### Kansas City Chiefs - 31 
 ### San Francisco 49ers - 20
 
@@ -19,4 +18,4 @@
 ![Drag Racing](output_prediction_image.png)
 
 
-# This project underscored the importance of deep contextual understanding (domain knowledge), the ability to wrangle data in Python to process datasets for insights, and knowledge of how to apply multiple machine learning models to a unique problem space. 
+### This project underscored the importance of deep contextual understanding (domain knowledge), the ability to wrangle data in Python to process datasets for insights, and knowledge of how to apply multiple machine learning models to a unique problem space. 
